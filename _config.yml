@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "printf('Toast Rookie 6th');"
   - text: "Wellcome to developer"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "https://graph.facebook.com/whoelse9405/picture?type=large&width=500&height=500"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -132,12 +132,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/myUnivLogo.png"
+    date: "March 2013"
+    description: "충북대학교 소프트웨어학과 입학"
+  - image: "/img/timeline/myComLogo.jpg"
+    date: "January 2019"
+    description: "NHN Entertainment Toast Rookie 6기 입사"
 
 # First image of the Timeline
 
@@ -147,7 +147,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "whoelse9405@naver.com"
 
 ################
 # Author Blurb #
@@ -170,9 +170,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/whoelse9405"
   - title: "rss"
     url: "/feed.xml"
 
