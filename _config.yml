@@ -28,7 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "ko"
 author: "John Smith"
 title: "{ DongJin's Bolg }"
 description: "안녕하세요 이동진 블로그입니다."
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "printf('Toast Rookie 6th');"
   - text: "Wellcome to developer"
 
-me-img: "https://graph.facebook.com/whoelse9405/picture?type=large&width=500&height=500"
+me-img: "https://graph.facebook.com/100003508570259/picture?type=large&width=500&height=500"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -66,12 +66,12 @@ me-img: "https://graph.facebook.com/whoelse9405/picture?type=large&width=500&hei
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+# me-img: "https://graph.facebook.com/100003508570259/picture?type=large&width=500&height=500"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+# me-img: "https://github.com/whoelse9405.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -133,9 +133,9 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/myUnivLogo.png"
-    date: "March 2013"
-    description: "충북대학교 소프트웨어학과 입학"
-  - image: "/img/timeline/myComLogo.jpg"
+    date: "March 2013 - February March 2019"
+    description: "충북대학교 소프트웨어학과"
+  - image: "/img/timeline/myComLogo.jpeg"
     date: "January 2019"
     description: "NHN Entertainment Toast Rookie 6기 입사"
 
